@@ -1,4 +1,4 @@
-name: GettingSponsored
+name: Getting Sponsored
 favicon: null
 layout_spectrum: 0.03451951523311436
 typography_spectrum: 0.7492496031336486
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#000000'
+    - '#cc0001'
+    - '#ffcc00'
+    - '#0066cb'
   brandStrength: 0.8184255505912006
   lightness: 0.205058463383466
   saturation: 0.06312588416039944
-  rhythmicContrast: 0.551464622374624
+  rhythmicContrast: 0.5
 purpose: []
